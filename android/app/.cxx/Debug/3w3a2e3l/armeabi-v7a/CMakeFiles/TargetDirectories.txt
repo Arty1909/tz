@@ -1,0 +1,2 @@
+C:/Users/ADMIN/Pictures/Camera Roll/tz/android/app/.cxx/Debug/3w3a2e3l/armeabi-v7a/CMakeFiles/edit_cache.dir
+C:/Users/ADMIN/Pictures/Camera Roll/tz/android/app/.cxx/Debug/3w3a2e3l/armeabi-v7a/CMakeFiles/rebuild_cache.dir
