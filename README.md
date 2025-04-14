@@ -1,16 +1,10 @@
-# tz
+# Kanban Board
 
-A new Flutter project.
+Kanban Board is a Flutter application for displaying tasks on a Kanban board. The application allows you to drag and drop tasks between columns (folders) and reorder tasks within columns. Tasks are fetched from a backend server and saved back to the server.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Features
+Display tasks on a Kanban board
+Drag and drop tasks between columns
+Reorder tasks within columns
+Fetch tasks from the backend server
+Save task updates to the backend server
